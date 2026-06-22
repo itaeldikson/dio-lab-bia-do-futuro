@@ -3,22 +3,23 @@
 > [!TIP]
 > Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
  
-## Roteiro Sugerido
+## Roteiro Do Ità
 
 ### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+> Uma boa parte dos brasileiros não tem educação financeira , pois a maioria nunca estudou ou parou algum momento da vida para aprender sobre.
 
-[Sua descrição aqui]
 
 ### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
 
-[Sua descrição aqui]
+>o Ità é um gestor financeiro focado e solucionar o problema fazendo demostracoes e solucoes completa de como melhorar as financas trazendos boas apresentacoes e demonstrações de interesse pessoais .
+
 
 ### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
 
-[Descreva o que será mostrado]
+<img width="1902" height="938" alt="image" src="https://github.com/user-attachments/assets/eb47c053-329d-42af-8430-3b9ed752875b" />
+
+
+
 
 ### 4. Diferencial e Impacto (30 seg)
 > Por que essa solução é inovadora e qual é o impacto dela na sociedade?
@@ -29,11 +30,10 @@
 
 ## Checklist do Pitch
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+- [x] Duração máxima de 3 minutos
+- [x] Problema claramente definido
+- [x] Solução demonstrada na prática
+- [x] Diferencial explicado
 
 ---
 
